@@ -18,7 +18,12 @@ use App\Http\Controllers\PostsController;
 |
 */
 
-Route::get('/', [PagesController::class, 'index'] );
+Route::get('/', [PagesController::class, 'index'] )
+        ->name('home');
+
+
 
 Route::resource('/blog', PostsController::class);
 
+
+require __DIR__.'/auth.php';

@@ -18,7 +18,7 @@
 
     <div class="sm:grid grid-cols-2 gap-20 w-4/5 m-8 py-15 border-b border-gray-200">
         <div>
-            <img src="https://bizcoachinfo.com/wp-content/uploads/2012/07/You-Can-Get-Bigger-Corporate-Accounts-in-5-Steps-1-1280x640.jpg" width="700" alt="">
+            <img src="https://c0.wallpaperflare.com/path/672/984/942/laptop-computer-keyboard-technology-3c53a06a56e90d735cd2392961de86c7.jpg" width="700" alt="">
         </div>
 
         <div class="m-auto sm:m-auto text-left w-4/5 block">
@@ -43,21 +43,21 @@
     </div>
 
     <div class="text-center p-15 bg-black text-white">
-        <h2 class="text-2xl pb-5 text-l"> 
-            I'm an expert in...
+        <h2 class="text-5xl pb-5 text-l"> 
+            Best Web Development Frameworks :
         </h2>
 
-        <span class="font-extrabold block text-4xl py-1">
-            Ux Design
+        <span class="font-extrabold block text-2xl text-center px-10">
+            1. Laravel
         </span>
-        <span class="font-extrabold block text-4xl py-1">
-            Project Management
+        <span class="font-extrabold block text-2xl text-center px-10 ">
+            2. Django
         </span>
-        <span class="font-extrabold block text-4xl py-1">
-            Digital Strategy
+        <span class="font-extrabold block text-2xl text-center px-10">
+            3. Ruby on Rails
         </span>
-        <span class="font-extrabold block text-4xl py-1">
-            Backend Development
+        <span class="font-extrabold block text-2xl text-center px-10">
+            4. Express
         </span>
     </div>
 
@@ -69,10 +69,6 @@
         <h2 class="text-4xl font-bold py-10">
             Recent Posts
         </h2>
-
-        <p class="m-auto w-4/5 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque exercitationem saepe enim veritatis, eos temporibus quaerat facere consectetur qui.
-        </p>
     </div>
 
     <div class="sm:grid grid-cols-2 w-4/5 m-auto">

@@ -1,12 +1,10 @@
-@import "tailwindcss/base";
-
-@import "tailwindcss/components";
-
-@import "tailwindcss/utilities";
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 
 .background-image 
 {
-    background-image: url('https://cdn.pixabay.com/photo/2017/07/31/23/45/pen-2562078_960_720.jpg');
+    background-image: url('https://c0.wallpaperflare.com/path/383/148/988/macbook-pro-office-perspective-laptop-33f6b969b5719d542649ae32f65c54b2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
