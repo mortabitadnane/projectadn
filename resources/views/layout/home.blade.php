@@ -8,7 +8,7 @@
 
 <body>
   <div>
-  <h1>welcome to home page </h1>
+  <h1>we/h1>
   <h2> hello <?php echo $exp . $name?></h2>
   </div>
 

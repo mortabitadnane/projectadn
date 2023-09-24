@@ -1,7 +1,7 @@
 @extends('layout.app')
 
 @section('content')
-    <div class="background-image grid grid-cols-1 mx-8">
+    <div class="background-image grid grid-cols-1 ">
         <div class="flex text-gray-100 pt-10">
             <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block text-center">
                 <h1 class="sm:text-white text-5xl uppercase font-bold text-shadow-md pb-14">
@@ -18,7 +18,7 @@
 
     <div class="sm:grid grid-cols-2 gap-20 w-4/5 m-8 py-15 border-b border-gray-200">
         <div>
-            <img src="https://c0.wallpaperflare.com/path/672/984/942/laptop-computer-keyboard-technology-3c53a06a56e90d735cd2392961de86c7.jpg" width="700" alt="">
+            <img src="https://images.businessnewsdaily.com/app/uploads/2022/04/04072906/freelancer_Poike_getty.jpg" width="700" alt="">
         </div>
 
         <div class="m-auto sm:m-auto text-left w-4/5 block">
@@ -42,7 +42,7 @@
         </div>
     </div>
 
-    <div class="text-center p-15 bg-black text-white">
+    <div class="text-center p-15 bg-orange-300 text-white">
         <h2 class="text-5xl pb-5 text-l"> 
             Best Web Development Frameworks :
         </h2>
@@ -62,17 +62,13 @@
     </div>
 
     <div class="text-center py-15">
-        <span class="uppercase text-s text-gray-400">
-            Blog
-        </span>
-
         <h2 class="text-4xl font-bold py-10">
             Recent Posts
         </h2>
     </div>
 
     <div class="sm:grid grid-cols-2 w-4/5 m-auto">
-        <div class="flex bg-yellow-700 text-gray-100 pt-10">
+        <div class="flex bg-orange-300 text-gray-100 pt-10">
             <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
                 <span class="uppercase text-xl font-extrabold ">
                   PHP
